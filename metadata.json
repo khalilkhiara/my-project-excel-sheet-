@@ -1,0 +1,8 @@
+{
+  "name": "Piping Dashboard & Analytics",
+  "description": "An industrial-grade dashboard for tracking Piping Material Take-Offs (MTO), detailing linear pipe lengths and fittings (elbows, reducers, tees) by schedule and size. Features smart Gemini AI analytics and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
